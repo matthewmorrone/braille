@@ -1,0 +1,1795 @@
+[{
+    "char-dec": "⠀",
+    "decimal": 10240,
+    "char-hex": "⠀",
+    "hex": 2800,
+    "name": "braille pattern blank",
+  	  "name": "braille pattern blank"
+}, {
+    "char-dec": "⠁",
+    "decimal": 10241,
+    "char-hex": "⠁",
+    "hex": 2801,
+    "name": "braille pattern dots-1",
+  	"dots": "1"
+}, {
+    "char-dec": "⠂",
+    "decimal": 10242,
+    "char-hex": "⠂",
+    "hex": 2802,
+    "name": "braille pattern dots-2",
+  	"dots": "2"
+}, {
+    "char-dec": "⠃",
+    "decimal": 10243,
+    "char-hex": "⠃",
+    "hex": 2803,
+    "name": "braille pattern dots-12",
+  	"dots": "12"
+}, {
+    "char-dec": "⠄",
+    "decimal": 10244,
+    "char-hex": "⠄",
+    "hex": 2804,
+    "name": "braille pattern dots-3",
+  	"dots": "3"
+}, {
+    "char-dec": "⠅",
+    "decimal": 10245,
+    "char-hex": "⠅",
+    "hex": 2805,
+    "name": "braille pattern dots-13",
+  	"dots": "13"
+}, {
+    "char-dec": "⠆",
+    "decimal": 10246,
+    "char-hex": "⠆",
+    "hex": 2806,
+    "name": "braille pattern dots-23",
+  	"dots": "23"
+}, {
+    "char-dec": "⠇",
+    "decimal": 10247,
+    "char-hex": "⠇",
+    "hex": 2807,
+    "name": "braille pattern dots-123",
+  	"dots": "123"
+}, {
+    "char-dec": "⠈",
+    "decimal": 10248,
+    "char-hex": "⠈",
+    "hex": 2808,
+    "name": "braille pattern dots-4",
+  	"dots": "4"
+}, {
+    "char-dec": "⠉",
+    "decimal": 10249,
+    "char-hex": "⠉",
+    "hex": 2809,
+    "name": "braille pattern dots-14",
+  	"dots": "14"
+}, {
+    "char-dec": "⠊",
+    "decimal": 10250,
+    "char-hex": "⠊",
+    "hex": "280a",
+    "name": "braille pattern dots-24",
+  	"dots": "24"
+}, {
+    "char-dec": "⠋",
+    "decimal": 10251,
+    "char-hex": "⠋",
+    "hex": "280b",
+    "name": "braille pattern dots-124",
+  	"dots": "124"
+}, {
+    "char-dec": "⠌",
+    "decimal": 10252,
+    "char-hex": "⠌",
+    "hex": "280c",
+    "name": "braille pattern dots-34",
+  	"dots": "34"
+}, {
+    "char-dec": "⠍",
+    "decimal": 10253,
+    "char-hex": "⠍",
+    "hex": "280d",
+    "name": "braille pattern dots-134",
+  	"dots": "134"
+}, {
+    "char-dec": "⠎",
+    "decimal": 10254,
+    "char-hex": "⠎",
+    "hex": "280e",
+    "name": "braille pattern dots-234",
+  	"dots": "234"
+}, {
+    "char-dec": "⠏",
+    "decimal": 10255,
+    "char-hex": "⠏",
+    "hex": "280f",
+    "name": "braille pattern dots-1234",
+  	"dots": "1234"
+}, {
+    "char-dec": "⠐",
+    "decimal": 10256,
+    "char-hex": "⠐",
+    "hex": 2810,
+    "name": "braille pattern dots-5",
+  	"dots": "5"
+}, {
+    "char-dec": "⠑",
+    "decimal": 10257,
+    "char-hex": "⠑",
+    "hex": 2811,
+    "name": "braille pattern dots-15",
+  	"dots": "15"
+}, {
+    "char-dec": "⠒",
+    "decimal": 10258,
+    "char-hex": "⠒",
+    "hex": 2812,
+    "name": "braille pattern dots-25",
+  	"dots": "25"
+}, {
+    "char-dec": "⠓",
+    "decimal": 10259,
+    "char-hex": "⠓",
+    "hex": 2813,
+    "name": "braille pattern dots-125",
+  	"dots": "125"
+}, {
+    "char-dec": "⠔",
+    "decimal": 10260,
+    "char-hex": "⠔",
+    "hex": 2814,
+    "name": "braille pattern dots-35",
+  	"dots": "35"
+}, {
+    "char-dec": "⠕",
+    "decimal": 10261,
+    "char-hex": "⠕",
+    "hex": 2815,
+    "name": "braille pattern dots-135",
+  	"dots": "135"
+}, {
+    "char-dec": "⠖",
+    "decimal": 10262,
+    "char-hex": "⠖",
+    "hex": 2816,
+    "name": "braille pattern dots-235",
+  	"dots": "235"
+}, {
+    "char-dec": "⠗",
+    "decimal": 10263,
+    "char-hex": "⠗",
+    "hex": 2817,
+    "name": "braille pattern dots-1235",
+  	"dots": "1235"
+}, {
+    "char-dec": "⠘",
+    "decimal": 10264,
+    "char-hex": "⠘",
+    "hex": 2818,
+    "name": "braille pattern dots-45",
+  	"dots": "45"
+}, {
+    "char-dec": "⠙",
+    "decimal": 10265,
+    "char-hex": "⠙",
+    "hex": 2819,
+    "name": "braille pattern dots-145",
+  	"dots": "145"
+}, {
+    "char-dec": "⠚",
+    "decimal": 10266,
+    "char-hex": "⠚",
+    "hex": "281a",
+    "name": "braille pattern dots-245",
+  	"dots": "245"
+}, {
+    "char-dec": "⠛",
+    "decimal": 10267,
+    "char-hex": "⠛",
+    "hex": "281b",
+    "name": "braille pattern dots-1245",
+  	"dots": "1245"
+}, {
+    "char-dec": "⠜",
+    "decimal": 10268,
+    "char-hex": "⠜",
+    "hex": "281c",
+    "name": "braille pattern dots-345",
+  	"dots": "345"
+}, {
+    "char-dec": "⠝",
+    "decimal": 10269,
+    "char-hex": "⠝",
+    "hex": "281d",
+    "name": "braille pattern dots-1345",
+  	"dots": "1345"
+}, {
+    "char-dec": "⠞",
+    "decimal": 10270,
+    "char-hex": "⠞",
+    "hex": "281e",
+    "name": "braille pattern dots-2345",
+  	"dots": "2345"
+}, {
+    "char-dec": "⠟",
+    "decimal": 10271,
+    "char-hex": "⠟",
+    "hex": "281f",
+    "name": "braille pattern dots-12345",
+  	"dots": "12345"
+}, {
+    "char-dec": "⠠",
+    "decimal": 10272,
+    "char-hex": "⠠",
+    "hex": 2820,
+    "name": "braille pattern dots-6",
+  	"dots": "6"
+}, {
+    "char-dec": "⠡",
+    "decimal": 10273,
+    "char-hex": "⠡",
+    "hex": 2821,
+    "name": "braille pattern dots-16",
+  	"dots": "16"
+}, {
+    "char-dec": "⠢",
+    "decimal": 10274,
+    "char-hex": "⠢",
+    "hex": 2822,
+    "name": "braille pattern dots-26",
+  	"dots": "26"
+}, {
+    "char-dec": "⠣",
+    "decimal": 10275,
+    "char-hex": "⠣",
+    "hex": 2823,
+    "name": "braille pattern dots-126",
+  	"dots": "126"
+}, {
+    "char-dec": "⠤",
+    "decimal": 10276,
+    "char-hex": "⠤",
+    "hex": 2824,
+    "name": "braille pattern dots-36",
+  	"dots": "36"
+}, {
+    "char-dec": "⠥",
+    "decimal": 10277,
+    "char-hex": "⠥",
+    "hex": 2825,
+    "name": "braille pattern dots-136",
+  	"dots": "136"
+}, {
+    "char-dec": "⠦",
+    "decimal": 10278,
+    "char-hex": "⠦",
+    "hex": 2826,
+    "name": "braille pattern dots-236",
+  	"dots": "236"
+}, {
+    "char-dec": "⠧",
+    "decimal": 10279,
+    "char-hex": "⠧",
+    "hex": 2827,
+    "name": "braille pattern dots-1236",
+  	"dots": "1236"
+}, {
+    "char-dec": "⠨",
+    "decimal": 10280,
+    "char-hex": "⠨",
+    "hex": 2828,
+    "name": "braille pattern dots-46",
+  	"dots": "46"
+}, {
+    "char-dec": "⠩",
+    "decimal": 10281,
+    "char-hex": "⠩",
+    "hex": 2829,
+    "name": "braille pattern dots-146",
+  	"dots": "146"
+}, {
+    "char-dec": "⠪",
+    "decimal": 10282,
+    "char-hex": "⠪",
+    "hex": "282a",
+    "name": "braille pattern dots-246",
+  	"dots": "246"
+}, {
+    "char-dec": "⠫",
+    "decimal": 10283,
+    "char-hex": "⠫",
+    "hex": "282b",
+    "name": "braille pattern dots-1246",
+  	"dots": "1246"
+}, {
+    "char-dec": "⠬",
+    "decimal": 10284,
+    "char-hex": "⠬",
+    "hex": "282c",
+    "name": "braille pattern dots-346",
+  	"dots": "346"
+}, {
+    "char-dec": "⠭",
+    "decimal": 10285,
+    "char-hex": "⠭",
+    "hex": "282d",
+    "name": "braille pattern dots-1346",
+  	"dots": "1346"
+}, {
+    "char-dec": "⠮",
+    "decimal": 10286,
+    "char-hex": "⠮",
+    "hex": "282e",
+    "name": "braille pattern dots-2346",
+  	"dots": "2346"
+}, {
+    "char-dec": "⠯",
+    "decimal": 10287,
+    "char-hex": "⠯",
+    "hex": "282f",
+    "name": "braille pattern dots-12346",
+  	"dots": "12346"
+}, {
+    "char-dec": "⠰",
+    "decimal": 10288,
+    "char-hex": "⠰",
+    "hex": 2830,
+    "name": "braille pattern dots-56",
+  	"dots": "56"
+}, {
+    "char-dec": "⠱",
+    "decimal": 10289,
+    "char-hex": "⠱",
+    "hex": 2831,
+    "name": "braille pattern dots-156",
+  	"dots": "156"
+}, {
+    "char-dec": "⠲",
+    "decimal": 10290,
+    "char-hex": "⠲",
+    "hex": 2832,
+    "name": "braille pattern dots-256",
+  	"dots": "256"
+}, {
+    "char-dec": "⠳",
+    "decimal": 10291,
+    "char-hex": "⠳",
+    "hex": 2833,
+    "name": "braille pattern dots-1256",
+  	"dots": "1256"
+}, {
+    "char-dec": "⠴",
+    "decimal": 10292,
+    "char-hex": "⠴",
+    "hex": 2834,
+    "name": "braille pattern dots-356",
+  	"dots": "356"
+}, {
+    "char-dec": "⠵",
+    "decimal": 10293,
+    "char-hex": "⠵",
+    "hex": 2835,
+    "name": "braille pattern dots-1356",
+  	"dots": "1356"
+}, {
+    "char-dec": "⠶",
+    "decimal": 10294,
+    "char-hex": "⠶",
+    "hex": 2836,
+    "name": "braille pattern dots-2356",
+  	"dots": "2356"
+}, {
+    "char-dec": "⠷",
+    "decimal": 10295,
+    "char-hex": "⠷",
+    "hex": 2837,
+    "name": "braille pattern dots-12356",
+  	"dots": "12356"
+}, {
+    "char-dec": "⠸",
+    "decimal": 10296,
+    "char-hex": "⠸",
+    "hex": 2838,
+    "name": "braille pattern dots-456",
+  	"dots": "456"
+}, {
+    "char-dec": "⠹",
+    "decimal": 10297,
+    "char-hex": "⠹",
+    "hex": 2839,
+    "name": "braille pattern dots-1456",
+  	"dots": "1456"
+}, {
+    "char-dec": "⠺",
+    "decimal": 10298,
+    "char-hex": "⠺",
+    "hex": "283a",
+    "name": "braille pattern dots-2456",
+  	"dots": "2456"
+}, {
+    "char-dec": "⠻",
+    "decimal": 10299,
+    "char-hex": "⠻",
+    "hex": "283b",
+    "name": "braille pattern dots-12456",
+  	"dots": "12456"
+}, {
+    "char-dec": "⠼",
+    "decimal": 10300,
+    "char-hex": "⠼",
+    "hex": "283c",
+    "name": "braille pattern dots-3456",
+  	"dots": "3456"
+}, {
+    "char-dec": "⠽",
+    "decimal": 10301,
+    "char-hex": "⠽",
+    "hex": "283d",
+    "name": "braille pattern dots-13456",
+  	"dots": "13456"
+}, {
+    "char-dec": "⠾",
+    "decimal": 10302,
+    "char-hex": "⠾",
+    "hex": "283e",
+    "name": "braille pattern dots-23456",
+  	"dots": "23456"
+}, {
+    "char-dec": "⠿",
+    "decimal": 10303,
+    "char-hex": "⠿",
+    "hex": "283f",
+    "name": "braille pattern dots-123456",
+  	"dots": "123456"
+}, {
+    "char-dec": "⡀",
+    "decimal": 10304,
+    "char-hex": "⡀",
+    "hex": 2840,
+    "name": "braille pattern dots-7",
+  	"dots": "7"
+}, {
+    "char-dec": "⡁",
+    "decimal": 10305,
+    "char-hex": "⡁",
+    "hex": 2841,
+    "name": "braille pattern dots-17",
+  	"dots": "17"
+}, {
+    "char-dec": "⡂",
+    "decimal": 10306,
+    "char-hex": "⡂",
+    "hex": 2842,
+    "name": "braille pattern dots-27",
+  	"dots": "27"
+}, {
+    "char-dec": "⡃",
+    "decimal": 10307,
+    "char-hex": "⡃",
+    "hex": 2843,
+    "name": "braille pattern dots-127",
+  	"dots": "127"
+}, {
+    "char-dec": "⡄",
+    "decimal": 10308,
+    "char-hex": "⡄",
+    "hex": 2844,
+    "name": "braille pattern dots-37",
+  	"dots": "37"
+}, {
+    "char-dec": "⡅",
+    "decimal": 10309,
+    "char-hex": "⡅",
+    "hex": 2845,
+    "name": "braille pattern dots-137",
+  	"dots": "137"
+}, {
+    "char-dec": "⡆",
+    "decimal": 10310,
+    "char-hex": "⡆",
+    "hex": 2846,
+    "name": "braille pattern dots-237",
+  	"dots": "237"
+}, {
+    "char-dec": "⡇",
+    "decimal": 10311,
+    "char-hex": "⡇",
+    "hex": 2847,
+    "name": "braille pattern dots-1237",
+  	"dots": "1237"
+}, {
+    "char-dec": "⡈",
+    "decimal": 10312,
+    "char-hex": "⡈",
+    "hex": 2848,
+    "name": "braille pattern dots-47",
+  	"dots": "47"
+}, {
+    "char-dec": "⡉",
+    "decimal": 10313,
+    "char-hex": "⡉",
+    "hex": 2849,
+    "name": "braille pattern dots-147",
+  	"dots": "147"
+}, {
+    "char-dec": "⡊",
+    "decimal": 10314,
+    "char-hex": "⡊",
+    "hex": "284a",
+    "name": "braille pattern dots-247",
+  	"dots": "247"
+}, {
+    "char-dec": "⡋",
+    "decimal": 10315,
+    "char-hex": "⡋",
+    "hex": "284b",
+    "name": "braille pattern dots-1247",
+  	"dots": "1247"
+}, {
+    "char-dec": "⡌",
+    "decimal": 10316,
+    "char-hex": "⡌",
+    "hex": "284c",
+    "name": "braille pattern dots-347",
+  	"dots": "347"
+}, {
+    "char-dec": "⡍",
+    "decimal": 10317,
+    "char-hex": "⡍",
+    "hex": "284d",
+    "name": "braille pattern dots-1347",
+  	"dots": "1347"
+}, {
+    "char-dec": "⡎",
+    "decimal": 10318,
+    "char-hex": "⡎",
+    "hex": "284e",
+    "name": "braille pattern dots-2347",
+  	"dots": "2347"
+}, {
+    "char-dec": "⡏",
+    "decimal": 10319,
+    "char-hex": "⡏",
+    "hex": "284f",
+    "name": "braille pattern dots-12347",
+  	"dots": "12347"
+}, {
+    "char-dec": "⡐",
+    "decimal": 10320,
+    "char-hex": "⡐",
+    "hex": 2850,
+    "name": "braille pattern dots-57",
+  	"dots": "57"
+}, {
+    "char-dec": "⡑",
+    "decimal": 10321,
+    "char-hex": "⡑",
+    "hex": 2851,
+    "name": "braille pattern dots-157",
+  	"dots": "157"
+}, {
+    "char-dec": "⡒",
+    "decimal": 10322,
+    "char-hex": "⡒",
+    "hex": 2852,
+    "name": "braille pattern dots-257",
+  	"dots": "257"
+}, {
+    "char-dec": "⡓",
+    "decimal": 10323,
+    "char-hex": "⡓",
+    "hex": 2853,
+    "name": "braille pattern dots-1257",
+  	"dots": "1257"
+}, {
+    "char-dec": "⡔",
+    "decimal": 10324,
+    "char-hex": "⡔",
+    "hex": 2854,
+    "name": "braille pattern dots-357",
+  	"dots": "357"
+}, {
+    "char-dec": "⡕",
+    "decimal": 10325,
+    "char-hex": "⡕",
+    "hex": 2855,
+    "name": "braille pattern dots-1357",
+  	"dots": "1357"
+}, {
+    "char-dec": "⡖",
+    "decimal": 10326,
+    "char-hex": "⡖",
+    "hex": 2856,
+    "name": "braille pattern dots-2357",
+  	"dots": "2357"
+}, {
+    "char-dec": "⡗",
+    "decimal": 10327,
+    "char-hex": "⡗",
+    "hex": 2857,
+    "name": "braille pattern dots-12357",
+  	"dots": "12357"
+}, {
+    "char-dec": "⡘",
+    "decimal": 10328,
+    "char-hex": "⡘",
+    "hex": 2858,
+    "name": "braille pattern dots-457",
+  	"dots": "457"
+}, {
+    "char-dec": "⡙",
+    "decimal": 10329,
+    "char-hex": "⡙",
+    "hex": 2859,
+    "name": "braille pattern dots-1457",
+  	"dots": "1457"
+}, {
+    "char-dec": "⡚",
+    "decimal": 10330,
+    "char-hex": "⡚",
+    "hex": "285a",
+    "name": "braille pattern dots-2457",
+  	"dots": "2457"
+}, {
+    "char-dec": "⡛",
+    "decimal": 10331,
+    "char-hex": "⡛",
+    "hex": "285b",
+    "name": "braille pattern dots-12457",
+  	"dots": "12457"
+}, {
+    "char-dec": "⡜",
+    "decimal": 10332,
+    "char-hex": "⡜",
+    "hex": "285c",
+    "name": "braille pattern dots-3457",
+  	"dots": "3457"
+}, {
+    "char-dec": "⡝",
+    "decimal": 10333,
+    "char-hex": "⡝",
+    "hex": "285d",
+    "name": "braille pattern dots-13457",
+  	"dots": "13457"
+}, {
+    "char-dec": "⡞",
+    "decimal": 10334,
+    "char-hex": "⡞",
+    "hex": "285e",
+    "name": "braille pattern dots-23457",
+  	"dots": "23457"
+}, {
+    "char-dec": "⡟",
+    "decimal": 10335,
+    "char-hex": "⡟",
+    "hex": "285f",
+    "name": "braille pattern dots-123457",
+  	"dots": "123457"
+}, {
+    "char-dec": "⡠",
+    "decimal": 10336,
+    "char-hex": "⡠",
+    "hex": 2860,
+    "name": "braille pattern dots-67",
+  	"dots": "67"
+}, {
+    "char-dec": "⡡",
+    "decimal": 10337,
+    "char-hex": "⡡",
+    "hex": 2861,
+    "name": "braille pattern dots-167",
+  	"dots": "167"
+}, {
+    "char-dec": "⡢",
+    "decimal": 10338,
+    "char-hex": "⡢",
+    "hex": 2862,
+    "name": "braille pattern dots-267",
+  	"dots": "267"
+}, {
+    "char-dec": "⡣",
+    "decimal": 10339,
+    "char-hex": "⡣",
+    "hex": 2863,
+    "name": "braille pattern dots-1267",
+  	"dots": "1267"
+}, {
+    "char-dec": "⡤",
+    "decimal": 10340,
+    "char-hex": "⡤",
+    "hex": 2864,
+    "name": "braille pattern dots-367",
+  	"dots": "367"
+}, {
+    "char-dec": "⡥",
+    "decimal": 10341,
+    "char-hex": "⡥",
+    "hex": 2865,
+    "name": "braille pattern dots-1367",
+  	"dots": "1367"
+}, {
+    "char-dec": "⡦",
+    "decimal": 10342,
+    "char-hex": "⡦",
+    "hex": 2866,
+    "name": "braille pattern dots-2367",
+  	"dots": "2367"
+}, {
+    "char-dec": "⡧",
+    "decimal": 10343,
+    "char-hex": "⡧",
+    "hex": 2867,
+    "name": "braille pattern dots-12367",
+  	"dots": "12367"
+}, {
+    "char-dec": "⡨",
+    "decimal": 10344,
+    "char-hex": "⡨",
+    "hex": 2868,
+    "name": "braille pattern dots-467",
+  	"dots": "467"
+}, {
+    "char-dec": "⡩",
+    "decimal": 10345,
+    "char-hex": "⡩",
+    "hex": 2869,
+    "name": "braille pattern dots-1467",
+  	"dots": "1467"
+}, {
+    "char-dec": "⡪",
+    "decimal": 10346,
+    "char-hex": "⡪",
+    "hex": "286a",
+    "name": "braille pattern dots-2467",
+  	"dots": "2467"
+}, {
+    "char-dec": "⡫",
+    "decimal": 10347,
+    "char-hex": "⡫",
+    "hex": "286b",
+    "name": "braille pattern dots-12467",
+  	"dots": "12467"
+}, {
+    "char-dec": "⡬",
+    "decimal": 10348,
+    "char-hex": "⡬",
+    "hex": "286c",
+    "name": "braille pattern dots-3467",
+  	"dots": "3467"
+}, {
+    "char-dec": "⡭",
+    "decimal": 10349,
+    "char-hex": "⡭",
+    "hex": "286d",
+    "name": "braille pattern dots-13467",
+  	"dots": "13467"
+}, {
+    "char-dec": "⡮",
+    "decimal": 10350,
+    "char-hex": "⡮",
+    "hex": "286e",
+    "name": "braille pattern dots-23467",
+  	"dots": "23467"
+}, {
+    "char-dec": "⡯",
+    "decimal": 10351,
+    "char-hex": "⡯",
+    "hex": "286f",
+    "name": "braille pattern dots-123467",
+  	"dots": "123467"
+}, {
+    "char-dec": "⡰",
+    "decimal": 10352,
+    "char-hex": "⡰",
+    "hex": 2870,
+    "name": "braille pattern dots-567",
+  	"dots": "567"
+}, {
+    "char-dec": "⡱",
+    "decimal": 10353,
+    "char-hex": "⡱",
+    "hex": 2871,
+    "name": "braille pattern dots-1567",
+  	"dots": "1567"
+}, {
+    "char-dec": "⡲",
+    "decimal": 10354,
+    "char-hex": "⡲",
+    "hex": 2872,
+    "name": "braille pattern dots-2567",
+  	"dots": "2567"
+}, {
+    "char-dec": "⡳",
+    "decimal": 10355,
+    "char-hex": "⡳",
+    "hex": 2873,
+    "name": "braille pattern dots-12567",
+  	"dots": "12567"
+}, {
+    "char-dec": "⡴",
+    "decimal": 10356,
+    "char-hex": "⡴",
+    "hex": 2874,
+    "name": "braille pattern dots-3567",
+  	"dots": "3567"
+}, {
+    "char-dec": "⡵",
+    "decimal": 10357,
+    "char-hex": "⡵",
+    "hex": 2875,
+    "name": "braille pattern dots-13567",
+  	"dots": "13567"
+}, {
+    "char-dec": "⡶",
+    "decimal": 10358,
+    "char-hex": "⡶",
+    "hex": 2876,
+    "name": "braille pattern dots-23567",
+  	"dots": "23567"
+}, {
+    "char-dec": "⡷",
+    "decimal": 10359,
+    "char-hex": "⡷",
+    "hex": 2877,
+    "name": "braille pattern dots-123567",
+  	"dots": "123567"
+}, {
+    "char-dec": "⡸",
+    "decimal": 10360,
+    "char-hex": "⡸",
+    "hex": 2878,
+    "name": "braille pattern dots-4567",
+  	"dots": "4567"
+}, {
+    "char-dec": "⡹",
+    "decimal": 10361,
+    "char-hex": "⡹",
+    "hex": 2879,
+    "name": "braille pattern dots-14567",
+  	"dots": "14567"
+}, {
+    "char-dec": "⡺",
+    "decimal": 10362,
+    "char-hex": "⡺",
+    "hex": "287a",
+    "name": "braille pattern dots-24567",
+  	"dots": "24567"
+}, {
+    "char-dec": "⡻",
+    "decimal": 10363,
+    "char-hex": "⡻",
+    "hex": "287b",
+    "name": "braille pattern dots-124567",
+  	"dots": "124567"
+}, {
+    "char-dec": "⡼",
+    "decimal": 10364,
+    "char-hex": "⡼",
+    "hex": "287c",
+    "name": "braille pattern dots-34567",
+  	"dots": "34567"
+}, {
+    "char-dec": "⡽",
+    "decimal": 10365,
+    "char-hex": "⡽",
+    "hex": "287d",
+    "name": "braille pattern dots-134567",
+  	"dots": "134567"
+}, {
+    "char-dec": "⡾",
+    "decimal": 10366,
+    "char-hex": "⡾",
+    "hex": "287e",
+    "name": "braille pattern dots-234567",
+  	"dots": "234567"
+}, {
+    "char-dec": "⡿",
+    "decimal": 10367,
+    "char-hex": "⡿",
+    "hex": "287f",
+    "name": "braille pattern dots-1234567",
+  	"dots": "1234567"
+}, {
+    "char-dec": "⢀",
+    "decimal": 10368,
+    "char-hex": "⢀",
+    "hex": 2880,
+    "name": "braille pattern dots-8",
+  	"dots": "8"
+}, {
+    "char-dec": "⢁",
+    "decimal": 10369,
+    "char-hex": "⢁",
+    "hex": 2881,
+    "name": "braille pattern dots-18",
+  	"dots": "18"
+}, {
+    "char-dec": "⢂",
+    "decimal": 10370,
+    "char-hex": "⢂",
+    "hex": 2882,
+    "name": "braille pattern dots-28",
+  	"dots": "28"
+}, {
+    "char-dec": "⢃",
+    "decimal": 10371,
+    "char-hex": "⢃",
+    "hex": 2883,
+    "name": "braille pattern dots-128",
+  	"dots": "128"
+}, {
+    "char-dec": "⢄",
+    "decimal": 10372,
+    "char-hex": "⢄",
+    "hex": 2884,
+    "name": "braille pattern dots-38",
+  	"dots": "38"
+}, {
+    "char-dec": "⢅",
+    "decimal": 10373,
+    "char-hex": "⢅",
+    "hex": 2885,
+    "name": "braille pattern dots-138",
+  	"dots": "138"
+}, {
+    "char-dec": "⢆",
+    "decimal": 10374,
+    "char-hex": "⢆",
+    "hex": 2886,
+    "name": "braille pattern dots-238",
+  	"dots": "238"
+}, {
+    "char-dec": "⢇",
+    "decimal": 10375,
+    "char-hex": "⢇",
+    "hex": 2887,
+    "name": "braille pattern dots-1238",
+  	"dots": "1238"
+}, {
+    "char-dec": "⢈",
+    "decimal": 10376,
+    "char-hex": "⢈",
+    "hex": 2888,
+    "name": "braille pattern dots-48",
+  	"dots": "48"
+}, {
+    "char-dec": "⢉",
+    "decimal": 10377,
+    "char-hex": "⢉",
+    "hex": 2889,
+    "name": "braille pattern dots-148",
+  	"dots": "148"
+}, {
+    "char-dec": "⢊",
+    "decimal": 10378,
+    "char-hex": "⢊",
+    "hex": "288a",
+    "name": "braille pattern dots-248",
+  	"dots": "248"
+}, {
+    "char-dec": "⢋",
+    "decimal": 10379,
+    "char-hex": "⢋",
+    "hex": "288b",
+    "name": "braille pattern dots-1248",
+  	"dots": "1248"
+}, {
+    "char-dec": "⢌",
+    "decimal": 10380,
+    "char-hex": "⢌",
+    "hex": "288c",
+    "name": "braille pattern dots-348",
+  	"dots": "348"
+}, {
+    "char-dec": "⢍",
+    "decimal": 10381,
+    "char-hex": "⢍",
+    "hex": "288d",
+    "name": "braille pattern dots-1348",
+  	"dots": "1348"
+}, {
+    "char-dec": "⢎",
+    "decimal": 10382,
+    "char-hex": "⢎",
+    "hex": "288e",
+    "name": "braille pattern dots-2348",
+  	"dots": "2348"
+}, {
+    "char-dec": "⢏",
+    "decimal": 10383,
+    "char-hex": "⢏",
+    "hex": "288f",
+    "name": "braille pattern dots-12348",
+  	"dots": "12348"
+}, {
+    "char-dec": "⢐",
+    "decimal": 10384,
+    "char-hex": "⢐",
+    "hex": 2890,
+    "name": "braille pattern dots-58",
+  	"dots": "58"
+}, {
+    "char-dec": "⢑",
+    "decimal": 10385,
+    "char-hex": "⢑",
+    "hex": 2891,
+    "name": "braille pattern dots-158",
+  	"dots": "158"
+}, {
+    "char-dec": "⢒",
+    "decimal": 10386,
+    "char-hex": "⢒",
+    "hex": 2892,
+    "name": "braille pattern dots-258",
+  	"dots": "258"
+}, {
+    "char-dec": "⢓",
+    "decimal": 10387,
+    "char-hex": "⢓",
+    "hex": 2893,
+    "name": "braille pattern dots-1258",
+  	"dots": "1258"
+}, {
+    "char-dec": "⢔",
+    "decimal": 10388,
+    "char-hex": "⢔",
+    "hex": 2894,
+    "name": "braille pattern dots-358",
+  	"dots": "358"
+}, {
+    "char-dec": "⢕",
+    "decimal": 10389,
+    "char-hex": "⢕",
+    "hex": 2895,
+    "name": "braille pattern dots-1358",
+  	"dots": "1358"
+}, {
+    "char-dec": "⢖",
+    "decimal": 10390,
+    "char-hex": "⢖",
+    "hex": 2896,
+    "name": "braille pattern dots-2358",
+  	"dots": "2358"
+}, {
+    "char-dec": "⢗",
+    "decimal": 10391,
+    "char-hex": "⢗",
+    "hex": 2897,
+    "name": "braille pattern dots-12358",
+  	"dots": "12358"
+}, {
+    "char-dec": "⢘",
+    "decimal": 10392,
+    "char-hex": "⢘",
+    "hex": 2898,
+    "name": "braille pattern dots-458",
+  	"dots": "458"
+}, {
+    "char-dec": "⢙",
+    "decimal": 10393,
+    "char-hex": "⢙",
+    "hex": 2899,
+    "name": "braille pattern dots-1458",
+  	"dots": "1458"
+}, {
+    "char-dec": "⢚",
+    "decimal": 10394,
+    "char-hex": "⢚",
+    "hex": "289a",
+    "name": "braille pattern dots-2458",
+  	"dots": "2458"
+}, {
+    "char-dec": "⢛",
+    "decimal": 10395,
+    "char-hex": "⢛",
+    "hex": "289b",
+    "name": "braille pattern dots-12458",
+  	"dots": "12458"
+}, {
+    "char-dec": "⢜",
+    "decimal": 10396,
+    "char-hex": "⢜",
+    "hex": "289c",
+    "name": "braille pattern dots-3458",
+  	"dots": "3458"
+}, {
+    "char-dec": "⢝",
+    "decimal": 10397,
+    "char-hex": "⢝",
+    "hex": "289d",
+    "name": "braille pattern dots-13458",
+  	"dots": "13458"
+}, {
+    "char-dec": "⢞",
+    "decimal": 10398,
+    "char-hex": "⢞",
+    "hex": "289e",
+    "name": "braille pattern dots-23458",
+  	"dots": "23458"
+}, {
+    "char-dec": "⢟",
+    "decimal": 10399,
+    "char-hex": "⢟",
+    "hex": "289f",
+    "name": "braille pattern dots-123458",
+  	"dots": "123458"
+}, {
+    "char-dec": "⢠",
+    "decimal": 10400,
+    "char-hex": "⢠",
+    "hex": "28a0",
+    "name": "braille pattern dots-68",
+  	"dots": "68"
+}, {
+    "char-dec": "⢡",
+    "decimal": 10401,
+    "char-hex": "⢡",
+    "hex": "28a1",
+    "name": "braille pattern dots-168",
+  	"dots": "168"
+}, {
+    "char-dec": "⢢",
+    "decimal": 10402,
+    "char-hex": "⢢",
+    "hex": "28a2",
+    "name": "braille pattern dots-268",
+  	"dots": "268"
+}, {
+    "char-dec": "⢣",
+    "decimal": 10403,
+    "char-hex": "⢣",
+    "hex": "28a3",
+    "name": "braille pattern dots-1268",
+  	"dots": "1268"
+}, {
+    "char-dec": "⢤",
+    "decimal": 10404,
+    "char-hex": "⢤",
+    "hex": "28a4",
+    "name": "braille pattern dots-368",
+  	"dots": "368"
+}, {
+    "char-dec": "⢥",
+    "decimal": 10405,
+    "char-hex": "⢥",
+    "hex": "28a5",
+    "name": "braille pattern dots-1368",
+  	"dots": "1368"
+}, {
+    "char-dec": "⢦",
+    "decimal": 10406,
+    "char-hex": "⢦",
+    "hex": "28a6",
+    "name": "braille pattern dots-2368",
+  	"dots": "2368"
+}, {
+    "char-dec": "⢧",
+    "decimal": 10407,
+    "char-hex": "⢧",
+    "hex": "28a7",
+    "name": "braille pattern dots-12368",
+  	"dots": "12368"
+}, {
+    "char-dec": "⢨",
+    "decimal": 10408,
+    "char-hex": "⢨",
+    "hex": "28a8",
+    "name": "braille pattern dots-468",
+  	"dots": "468"
+}, {
+    "char-dec": "⢩",
+    "decimal": 10409,
+    "char-hex": "⢩",
+    "hex": "28a9",
+    "name": "braille pattern dots-1468",
+  	"dots": "1468"
+}, {
+    "char-dec": "⢪",
+    "decimal": 10410,
+    "char-hex": "⢪",
+    "hex": "28aa",
+    "name": "braille pattern dots-2468",
+  	"dots": "2468"
+}, {
+    "char-dec": "⢫",
+    "decimal": 10411,
+    "char-hex": "⢫",
+    "hex": "28ab",
+    "name": "braille pattern dots-12468",
+  	"dots": "12468"
+}, {
+    "char-dec": "⢬",
+    "decimal": 10412,
+    "char-hex": "⢬",
+    "hex": "28ac",
+    "name": "braille pattern dots-3468",
+  	"dots": "3468"
+}, {
+    "char-dec": "⢭",
+    "decimal": 10413,
+    "char-hex": "⢭",
+    "hex": "28ad",
+    "name": "braille pattern dots-13468",
+  	"dots": "13468"
+}, {
+    "char-dec": "⢮",
+    "decimal": 10414,
+    "char-hex": "⢮",
+    "hex": "28ae",
+    "name": "braille pattern dots-23468",
+  	"dots": "23468"
+}, {
+    "char-dec": "⢯",
+    "decimal": 10415,
+    "char-hex": "⢯",
+    "hex": "28af",
+    "name": "braille pattern dots-123468",
+  	"dots": "123468"
+}, {
+    "char-dec": "⢰",
+    "decimal": 10416,
+    "char-hex": "⢰",
+    "hex": "28b0",
+    "name": "braille pattern dots-568",
+  	"dots": "568"
+}, {
+    "char-dec": "⢱",
+    "decimal": 10417,
+    "char-hex": "⢱",
+    "hex": "28b1",
+    "name": "braille pattern dots-1568",
+  	"dots": "1568"
+}, {
+    "char-dec": "⢲",
+    "decimal": 10418,
+    "char-hex": "⢲",
+    "hex": "28b2",
+    "name": "braille pattern dots-2568",
+  	"dots": "2568"
+}, {
+    "char-dec": "⢳",
+    "decimal": 10419,
+    "char-hex": "⢳",
+    "hex": "28b3",
+    "name": "braille pattern dots-12568",
+  	"dots": "12568"
+}, {
+    "char-dec": "⢴",
+    "decimal": 10420,
+    "char-hex": "⢴",
+    "hex": "28b4",
+    "name": "braille pattern dots-3568",
+  	"dots": "3568"
+}, {
+    "char-dec": "⢵",
+    "decimal": 10421,
+    "char-hex": "⢵",
+    "hex": "28b5",
+    "name": "braille pattern dots-13568",
+  	"dots": "13568"
+}, {
+    "char-dec": "⢶",
+    "decimal": 10422,
+    "char-hex": "⢶",
+    "hex": "28b6",
+    "name": "braille pattern dots-23568",
+  	"dots": "23568"
+}, {
+    "char-dec": "⢷",
+    "decimal": 10423,
+    "char-hex": "⢷",
+    "hex": "28b7",
+    "name": "braille pattern dots-123568",
+  	"dots": "123568"
+}, {
+    "char-dec": "⢸",
+    "decimal": 10424,
+    "char-hex": "⢸",
+    "hex": "28b8",
+    "name": "braille pattern dots-4568",
+  	"dots": "4568"
+}, {
+    "char-dec": "⢹",
+    "decimal": 10425,
+    "char-hex": "⢹",
+    "hex": "28b9",
+    "name": "braille pattern dots-14568",
+  	"dots": "14568"
+}, {
+    "char-dec": "⢺",
+    "decimal": 10426,
+    "char-hex": "⢺",
+    "hex": "28ba",
+    "name": "braille pattern dots-24568",
+  	"dots": "24568"
+}, {
+    "char-dec": "⢻",
+    "decimal": 10427,
+    "char-hex": "⢻",
+    "hex": "28bb",
+    "name": "braille pattern dots-124568",
+  	"dots": "124568"
+}, {
+    "char-dec": "⢼",
+    "decimal": 10428,
+    "char-hex": "⢼",
+    "hex": "28bc",
+    "name": "braille pattern dots-34568",
+  	"dots": "34568"
+}, {
+    "char-dec": "⢽",
+    "decimal": 10429,
+    "char-hex": "⢽",
+    "hex": "28bd",
+    "name": "braille pattern dots-134568",
+  	"dots": "134568"
+}, {
+    "char-dec": "⢾",
+    "decimal": 10430,
+    "char-hex": "⢾",
+    "hex": "28be",
+    "name": "braille pattern dots-234568",
+  	"dots": "234568"
+}, {
+    "char-dec": "⢿",
+    "decimal": 10431,
+    "char-hex": "⢿",
+    "hex": "28bf",
+    "name": "braille pattern dots-1234568",
+  	"dots": "1234568"
+}, {
+    "char-dec": "⣀",
+    "decimal": 10432,
+    "char-hex": "⣀",
+    "hex": "28c0",
+    "name": "braille pattern dots-78",
+  	"dots": "78"
+}, {
+    "char-dec": "⣁",
+    "decimal": 10433,
+    "char-hex": "⣁",
+    "hex": "28c1",
+    "name": "braille pattern dots-178",
+  	"dots": "178"
+}, {
+    "char-dec": "⣂",
+    "decimal": 10434,
+    "char-hex": "⣂",
+    "hex": "28c2",
+    "name": "braille pattern dots-278",
+  	"dots": "278"
+}, {
+    "char-dec": "⣃",
+    "decimal": 10435,
+    "char-hex": "⣃",
+    "hex": "28c3",
+    "name": "braille pattern dots-1278",
+  	"dots": "1278"
+}, {
+    "char-dec": "⣄",
+    "decimal": 10436,
+    "char-hex": "⣄",
+    "hex": "28c4",
+    "name": "braille pattern dots-378",
+  	"dots": "378"
+}, {
+    "char-dec": "⣅",
+    "decimal": 10437,
+    "char-hex": "⣅",
+    "hex": "28c5",
+    "name": "braille pattern dots-1378",
+  	"dots": "1378"
+}, {
+    "char-dec": "⣆",
+    "decimal": 10438,
+    "char-hex": "⣆",
+    "hex": "28c6",
+    "name": "braille pattern dots-2378",
+  	"dots": "2378"
+}, {
+    "char-dec": "⣇",
+    "decimal": 10439,
+    "char-hex": "⣇",
+    "hex": "28c7",
+    "name": "braille pattern dots-12378",
+  	"dots": "12378"
+}, {
+    "char-dec": "⣈",
+    "decimal": 10440,
+    "char-hex": "⣈",
+    "hex": "28c8",
+    "name": "braille pattern dots-478",
+  	"dots": "478"
+}, {
+    "char-dec": "⣉",
+    "decimal": 10441,
+    "char-hex": "⣉",
+    "hex": "28c9",
+    "name": "braille pattern dots-1478",
+  	"dots": "1478"
+}, {
+    "char-dec": "⣊",
+    "decimal": 10442,
+    "char-hex": "⣊",
+    "hex": "28ca",
+    "name": "braille pattern dots-2478",
+  	"dots": "2478"
+}, {
+    "char-dec": "⣋",
+    "decimal": 10443,
+    "char-hex": "⣋",
+    "hex": "28cb",
+    "name": "braille pattern dots-12478",
+  	"dots": "12478"
+}, {
+    "char-dec": "⣌",
+    "decimal": 10444,
+    "char-hex": "⣌",
+    "hex": "28cc",
+    "name": "braille pattern dots-3478",
+  	"dots": "3478"
+}, {
+    "char-dec": "⣍",
+    "decimal": 10445,
+    "char-hex": "⣍",
+    "hex": "28cd",
+    "name": "braille pattern dots-13478",
+  	"dots": "13478"
+}, {
+    "char-dec": "⣎",
+    "decimal": 10446,
+    "char-hex": "⣎",
+    "hex": "28ce",
+    "name": "braille pattern dots-23478",
+  	"dots": "23478"
+}, {
+    "char-dec": "⣏",
+    "decimal": 10447,
+    "char-hex": "⣏",
+    "hex": "28cf",
+    "name": "braille pattern dots-123478",
+  	"dots": "123478"
+}, {
+    "char-dec": "⣐",
+    "decimal": 10448,
+    "char-hex": "⣐",
+    "hex": "28d0",
+    "name": "braille pattern dots-578",
+  	"dots": "578"
+}, {
+    "char-dec": "⣑",
+    "decimal": 10449,
+    "char-hex": "⣑",
+    "hex": "28d1",
+    "name": "braille pattern dots-1578",
+  	"dots": "1578"
+}, {
+    "char-dec": "⣒",
+    "decimal": 10450,
+    "char-hex": "⣒",
+    "hex": "28d2",
+    "name": "braille pattern dots-2578",
+  	"dots": "2578"
+}, {
+    "char-dec": "⣓",
+    "decimal": 10451,
+    "char-hex": "⣓",
+    "hex": "28d3",
+    "name": "braille pattern dots-12578",
+  	"dots": "12578"
+}, {
+    "char-dec": "⣔",
+    "decimal": 10452,
+    "char-hex": "⣔",
+    "hex": "28d4",
+    "name": "braille pattern dots-3578",
+  	"dots": "3578"
+}, {
+    "char-dec": "⣕",
+    "decimal": 10453,
+    "char-hex": "⣕",
+    "hex": "28d5",
+    "name": "braille pattern dots-13578",
+  	"dots": "13578"
+}, {
+    "char-dec": "⣖",
+    "decimal": 10454,
+    "char-hex": "⣖",
+    "hex": "28d6",
+    "name": "braille pattern dots-23578",
+  	"dots": "23578"
+}, {
+    "char-dec": "⣗",
+    "decimal": 10455,
+    "char-hex": "⣗",
+    "hex": "28d7",
+    "name": "braille pattern dots-123578",
+  	"dots": "123578"
+}, {
+    "char-dec": "⣘",
+    "decimal": 10456,
+    "char-hex": "⣘",
+    "hex": "28d8",
+    "name": "braille pattern dots-4578",
+  	"dots": "4578"
+}, {
+    "char-dec": "⣙",
+    "decimal": 10457,
+    "char-hex": "⣙",
+    "hex": "28d9",
+    "name": "braille pattern dots-14578",
+  	"dots": "14578"
+}, {
+    "char-dec": "⣚",
+    "decimal": 10458,
+    "char-hex": "⣚",
+    "hex": "28da",
+    "name": "braille pattern dots-24578",
+  	"dots": "24578"
+}, {
+    "char-dec": "⣛",
+    "decimal": 10459,
+    "char-hex": "⣛",
+    "hex": "28db",
+    "name": "braille pattern dots-124578",
+  	"dots": "124578"
+}, {
+    "char-dec": "⣜",
+    "decimal": 10460,
+    "char-hex": "⣜",
+    "hex": "28dc",
+    "name": "braille pattern dots-34578",
+  	"dots": "34578"
+}, {
+    "char-dec": "⣝",
+    "decimal": 10461,
+    "char-hex": "⣝",
+    "hex": "28dd",
+    "name": "braille pattern dots-134578",
+  	"dots": "134578"
+}, {
+    "char-dec": "⣞",
+    "decimal": 10462,
+    "char-hex": "⣞",
+    "hex": "28de",
+    "name": "braille pattern dots-234578",
+  	"dots": "234578"
+}, {
+    "char-dec": "⣟",
+    "decimal": 10463,
+    "char-hex": "⣟",
+    "hex": "28df",
+    "name": "braille pattern dots-1234578",
+  	"dots": "1234578"
+}, {
+    "char-dec": "⣠",
+    "decimal": 10464,
+    "char-hex": "⣠",
+    "hex": 28,
+    "name": "braille pattern dots-678",
+  	"dots": "678"
+}, {
+    "char-dec": "⣡",
+    "decimal": 10465,
+    "char-hex": "⣡",
+    "hex": 280,
+    "name": "braille pattern dots-1678",
+  	"dots": "1678"
+}, {
+    "char-dec": "⣢",
+    "decimal": 10466,
+    "char-hex": "⣢",
+    "hex": 2800,
+    "name": "braille pattern dots-2678",
+  	"dots": "2678"
+}, {
+    "char-dec": "⣣",
+    "decimal": 10467,
+    "char-hex": "⣣",
+    "hex": 28000,
+    "name": "braille pattern dots-12678",
+  	"dots": "12678"
+}, {
+    "char-dec": "⣤",
+    "decimal": 10468,
+    "char-hex": "⣤",
+    "hex": 280000,
+    "name": "braille pattern dots-3678",
+  	"dots": "3678"
+}, {
+    "char-dec": "⣥",
+    "decimal": 10469,
+    "char-hex": "⣥",
+    "hex": 2800000,
+    "name": "braille pattern dots-13678",
+  	"dots": "13678"
+}, {
+    "char-dec": "⣦",
+    "decimal": 10470,
+    "char-hex": "⣦",
+    "hex": 28000000,
+    "name": "braille pattern dots-23678",
+  	"dots": "23678"
+}, {
+    "char-dec": "⣧",
+    "decimal": 10471,
+    "char-hex": "⣧",
+    "hex": 280000000,
+    "name": "braille pattern dots-123678",
+  	"dots": "123678"
+}, {
+    "char-dec": "⣨",
+    "decimal": 10472,
+    "char-hex": "⣨",
+    "hex": 2800000000,
+    "name": "braille pattern dots-4678",
+  	"dots": "4678"
+}, {
+    "char-dec": "⣩",
+    "decimal": 10473,
+    "char-hex": "⣩",
+    "hex": 28000000000,
+    "name": "braille pattern dots-14678",
+  	"dots": "14678"
+}, {
+    "char-dec": "⣪",
+    "decimal": 10474,
+    "char-hex": "⣪",
+    "hex": "28ea",
+    "name": "braille pattern dots-24678",
+  	"dots": "24678"
+}, {
+    "char-dec": "⣫",
+    "decimal": 10475,
+    "char-hex": "⣫",
+    "hex": "28eb",
+    "name": "braille pattern dots-124678",
+  	"dots": "124678"
+}, {
+    "char-dec": "⣬",
+    "decimal": 10476,
+    "char-hex": "⣬",
+    "hex": "28ec",
+    "name": "braille pattern dots-34678",
+  	"dots": "34678"
+}, {
+    "char-dec": "⣭",
+    "decimal": 10477,
+    "char-hex": "⣭",
+    "hex": "28ed",
+    "name": "braille pattern dots-134678",
+  	"dots": "134678"
+}, {
+    "char-dec": "⣮",
+    "decimal": 10478,
+    "char-hex": "⣮",
+    "hex": "28ee",
+    "name": "braille pattern dots-234678",
+  	"dots": "234678"
+}, {
+    "char-dec": "⣯",
+    "decimal": 10479,
+    "char-hex": "⣯",
+    "hex": "28ef",
+    "name": "braille pattern dots-1234678",
+  	"dots": "1234678"
+}, {
+    "char-dec": "⣰",
+    "decimal": 10480,
+    "char-hex": "⣰",
+    "hex": "28f0",
+    "name": "braille pattern dots-5678",
+  	"dots": "5678"
+}, {
+    "char-dec": "⣱",
+    "decimal": 10481,
+    "char-hex": "⣱",
+    "hex": "28f1",
+    "name": "braille pattern dots-15678",
+  	"dots": "15678"
+}, {
+    "char-dec": "⣲",
+    "decimal": 10482,
+    "char-hex": "⣲",
+    "hex": "28f2",
+    "name": "braille pattern dots-25678",
+  	"dots": "25678"
+}, {
+    "char-dec": "⣳",
+    "decimal": 10483,
+    "char-hex": "⣳",
+    "hex": "28f3",
+    "name": "braille pattern dots-125678",
+  	"dots": "125678"
+}, {
+    "char-dec": "⣴",
+    "decimal": 10484,
+    "char-hex": "⣴",
+    "hex": "28f4",
+    "name": "braille pattern dots-35678",
+  	"dots": "35678"
+}, {
+    "char-dec": "⣵",
+    "decimal": 10485,
+    "char-hex": "⣵",
+    "hex": "28f5",
+    "name": "braille pattern dots-135678",
+  	"dots": "135678"
+}, {
+    "char-dec": "⣶",
+    "decimal": 10486,
+    "char-hex": "⣶",
+    "hex": "28f6",
+    "name": "braille pattern dots-235678",
+  	"dots": "235678"
+}, {
+    "char-dec": "⣷",
+    "decimal": 10487,
+    "char-hex": "⣷",
+    "hex": "28f7",
+    "name": "braille pattern dots-1235678",
+  	"dots": "1235678"
+}, {
+    "char-dec": "⣸",
+    "decimal": 10488,
+    "char-hex": "⣸",
+    "hex": "28f8",
+    "name": "braille pattern dots-45678",
+  	"dots": "45678"
+}, {
+    "char-dec": "⣹",
+    "decimal": 10489,
+    "char-hex": "⣹",
+    "hex": "28f9",
+    "name": "braille pattern dots-145678",
+  	"dots": "145678"
+}, {
+    "char-dec": "⣺",
+    "decimal": 10490,
+    "char-hex": "⣺",
+    "hex": "28fa",
+    "name": "braille pattern dots-245678",
+  	"dots": "245678"
+}, {
+    "char-dec": "⣻",
+    "decimal": 10491,
+    "char-hex": "⣻",
+    "hex": "28fb",
+    "name": "braille pattern dots-1245678",
+  	"dots": "1245678"
+}, {
+    "char-dec": "⣼",
+    "decimal": 10492,
+    "char-hex": "⣼",
+    "hex": "28fc",
+    "name": "braille pattern dots-345678",
+  	"dots": "345678"
+}, {
+    "char-dec": "⣽",
+    "decimal": 10493,
+    "char-hex": "⣽",
+    "hex": "28fd",
+    "name": "braille pattern dots-1345678",
+  	"dots": "1345678"
+}, {
+    "char-dec": "⣾",
+    "decimal": 10494,
+    "char-hex": "⣾",
+    "hex": "28fe",
+    "name": "braille pattern dots-2345678",
+  	"dots": "2345678"
+}, {
+    "char-dec": "⣿",
+    "decimal": 10495,
+    "char-hex": "⣿",
+    "hex": "28ff",
+    "name": "braille pattern dots-12345678",
+  	"dots": "12345678"
+}, {
+    "char-dec": null
+}]

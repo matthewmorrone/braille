@@ -1,0 +1,141 @@
+<html>
+<head>
+<title>Braille</title>
+<meta charset="utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="shortcut icon" type="image/x-icon" href="/psi.ico" />
+<link rel="stylesheet" type="text/css" href="css/jquery.ui.css" />
+<link rel="stylesheet" type="text/css" href="css/icons.css" />
+<!-- <link rel="stylesheet" type="text/css" href="css/fonts.css" /> -->
+<style>
+@font-face {
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 400;
+  src: local("Raleway"), url(http://themes.googleusercontent.com/static/fonts/raleway/v6/cIFypx4yrWPDz3zOxk7hIQLUuEpTyoUstqEm5AMlJo4.woff) format("woff");
+}
+@font-face {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  src: local("Open Sans"), local("OpenSans"), url(http://themes.googleusercontent.com/static/fonts/opensans/v6/cJZKeOuBrn4kERxqtaUH3bO3LdcAZYWl9Si6vvxL-qU.woff) format("woff");
+}
+</style>
+<script src="lib/jquery.js"></script>
+<!-- <script type="text/javascript" src="http://www.google.com/jsapi"></script> -->
+<script src="lib/jquery.ui.js"></script>
+<style>
+html, body {
+  width: 100%;
+  height: 100%;
+  font-family: "Open Sans";
+}
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+ul, ol, li {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+}
+ul {
+  width: 300px;
+}
+li {
+  display: inline;
+}
+.letter {
+  border: 1px solid black;
+  /*-webkit-filter: invert(75%);*/
+}
+.container {
+  width: 50%;
+  margin: auto;
+  margin-top: 20px;
+}
+#write div {
+  float: left;
+}
+</style>
+</head>
+<body>
+
+<script type='text/javascript' src='lib/util.js'></script>
+<script type='text/javascript' src='lib/range.js'></script>
+<!-- <script type='text/javascript' src='combinatorics.js'></script> -->
+<script>
+// 0x2800 - 28FF
+$(function() {
+
+  var r = new Range("a", "z"), $ul = $("#1 ul"), $t1 = $("#t1");
+  r.each(function(a, b) {
+    $ul.append("<li><img alt='{0}' title='{0}' class='letter' src='imgs/letters/{0}.gif' /></li>".format(a))
+  })
+  // $ul.sortable({snap: true})
+
+
+  $("img").click(function() {
+    $this = $(this);
+    $t1.val($t1.val()+$(this).attr("alt")).focus()
+  })
+
+  $("img").on({
+    mouseenter: function (e) {
+      $(e.target).css('webkitFilter', "sepia(50%)")
+    },
+    mouseleave: function (e) {
+      $(e.target).css('webkitFilter', "")
+    }
+  });
+})
+
+</script>
+<div class='container'>
+<article id='1'>
+<ul></ul>
+</article>
+<br />
+<br />
+<br />
+<article id='2'>
+  <div id='write'>
+    <div><textarea id='t1' placeholder='Plain'></textarea></div>
+    <div><textarea id='t2' placeholder='Braille'></textarea></div>
+  </div>
+  <!-- <div class='play'></div> -->
+  <!-- <div id='readout'><table><tr></tr></table></div> -->
+</article>
+
+<!-- <article id='3'>
+  <div id='game'>
+    <div id='flashcard'>Start</div>
+    <input type='text' id='guess'>
+  </div>
+</article> -->
+<br />
+<br />
+<br />
+<article id='4'>
+  <p>simple app for reading braille based on my earlier <a href="morse-code">Morse Code</a> tool.</p>
+</article>
+<!-- <table>
+  <tr><th>HTML Entity (decimal)</th><td>&#10240;</td></tr>
+  <tr><th>HTML Entity (hex)</th><td>&#x2800;</td></tr>
+  <tr><th>How to type in Microsoft Windows</th><td>Alt +2800</td></tr>
+  <tr><th>UTF-8 (hex)</th><td>0xE2 0xA0 0x80 (e2a080)</td></tr>
+</table> -->
+
+
+</div>
+
+
+
+
+
+
+
+
+
+</body>
+</html>
