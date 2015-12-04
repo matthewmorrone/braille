@@ -24,6 +24,7 @@
 <script src="lib/jquery.js"></script>
 <!-- <script type="text/javascript" src="http://www.google.com/jsapi"></script> -->
 <script src="lib/jquery.ui.js"></script>
+<script src="lib/jquery.disableSelection.js"></script>
 <style>
 html, body {
   width: 100%;
@@ -33,6 +34,14 @@ html, body {
 table, th, td {
   border: 1px solid black;
   border-collapse: collapse;
+}
+* {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+}
+h3 {
+  border: 1px solid black;
 }
 ul, ol, li {
   list-style-type: none;
@@ -57,42 +66,105 @@ li {
 #write div {
   float: left;
 }
+textarea {
+  height: 43px;
+  outline: none;
+}
+button {
+  clear: both;
+}
+#space {
+  width: 30px;
+}
 </style>
 </head>
 <body>
 
 <script type='text/javascript' src='lib/util.js'></script>
 <script type='text/javascript' src='lib/range.js'></script>
+<script type='text/javascript' src='lib/starch.object.js'></script>
 <!-- <script type='text/javascript' src='combinatorics.js'></script> -->
 <script>
 // 0x2800 - 28FF
 $(function() {
+  var r = new Range("a", "z"), $ul = $("#1 ul"), $t1 = $("#t1"), $t2 = $("#t2"), $h3 = $("h3");
 
-  var r = new Range("a", "z"), $ul = $("#1 ul"), $t1 = $("#t1");
-  r.each(function(a, b) {
-    $ul.append("<li><img alt='{0}' title='{0}' class='letter' src='imgs/letters/{0}.gif' /></li>".format(a))
+  $h3.each(function() {
+    $(this).width($(this).next().width())
   })
+  $("#write textarea").width($h3.width())
+  // $("#write textarea").resizable({
+
+  //   resize: function() {
+  //     localStorage.setItem("textAreaHeight", $(this).height())
+  //   }
+  // });
+  $("#clear").width($("#write textarea").width())
+
+  if (localStorage.getItem("plainText") !== "") {
+    $t1.val(localStorage.getItem("plainText"))
+  }
+  if (localStorage.getItem("textAreaHeight") !== "") {
+    $t1.height(localStorage.getItem("textAreaHeight"))
+  }
+  $t1.keyup(function() {
+    localStorage.setItem("plainText", $(this).val())
+    localStorage.setItem("textAreaHeight", $(this).height())
+  })
+
+  $h3.click(function() {
+    $(this).next().is(":visible") ? $(this).next().hide() : $(this).next().show()
+  })
+  $h3.disableSelection()
+  $h3.eq(1).click()
+  // $h3.eq(2).click()
+  r.each(function(a, b) {
+    $("#1 ul:eq(0)").append("<li><img alt='{0}' title='{0}' class='letter' src='imgs/letters/{0}.gif' /></li>".format(a))
+  })
+  $("#1 ul:eq(0)").append("<li><img id='space' height=42 width=32 alt='{0}' title='{0}' class='letter' src='imgs/other/space.png' /></li>".format(" ", " "))
+  r = new Range(0, 9).each(function(a, b) {
+    $("#1 ul:eq(1)").append("<li><img alt='{0}' title='{0}' class='letter' src='imgs/numbers/{0}.gif' /></li>".format(a))
+  })
+  r = {"and":"and", "ed":"ed", "ing":"ing", "no":"no", "the":"the", "comma":",",  "period":"."}
+  r.each(function(a, b) {
+    $("#1 ul:eq(2)").append("<li><img alt='{0}' title='{0}' class='letter' src='imgs/other/{1}.gif' /></li>".format(a, b))
+  })
+  $("#1 ul:eq(2)").append("<li><img id='space' height=42 width=32 alt='{0}' title='{0}' class='letter' src='imgs/other/space.png' /></li>".format(" ", " "))
+  $("#1 ul:eq(2)").append("<li><img id='enter' height=42 width=32 alt='{0}' title='{0}' class='letter' src='imgs/other/space.png' /></li>".format("\n", "\n"))
+
+
   // $ul.sortable({snap: true})
 
 
-  $("img").click(function() {
-    $this = $(this);
-    $t1.val($t1.val()+$(this).attr("alt")).focus()
+  $("html").on("click", "img", function(e) {
+    $this = $(e.target);
+    $t1.val($t1.val()+$this.attr("alt")).focus()
+    // $this.css('webkitFilter', "invert(50%)").css('filter', "invert(50%)")
+    $("#cache").append($this.clone())
   })
-
-  $("img").on({
-    mouseenter: function (e) {
-      $(e.target).css('webkitFilter', "sepia(50%)")
-    },
-    mouseleave: function (e) {
-      $(e.target).css('webkitFilter', "")
-    }
-  });
+  $("#clear").click(function() {
+    $t1.val("")
+    $("#cache").find("*").remove()
+    // $(".letter").css("webkitFilter", "").css("filter", "")
+  })
+  // $("img").on({
+  //   mouseenter: function (e) {
+  //     $(e.target).css('webkitFilter', "invert(100%)")
+  //   },
+  //   mouseleave: function (e) {
+  //     $(e.target).css('webkitFilter', "")
+  //   }
+  // });
 })
 
 </script>
 <div class='container'>
 <article id='1'>
+<h3>Letters</h3>
+<ul></ul>
+<h3>Numbers</h3>
+<ul></ul>
+<h3>Other</h3>
 <ul></ul>
 </article>
 <br />
@@ -101,12 +173,67 @@ $(function() {
 <article id='2'>
   <div id='write'>
     <div><textarea id='t1' placeholder='Plain'></textarea></div>
-    <div><textarea id='t2' placeholder='Braille'></textarea></div>
+    <!-- <div><textarea id='t2' placeholder='Braille'>
+dig here
+
+first comes
+relicanth.
+last comes
+wailord.
+
+in this
+cave we
+have
+lived.
+
+we owe all
+to the
+pokemon.
+
+but, we
+sealed the
+pokemon
+away.
+
+we feared it.
+
+those with
+courage,
+those with
+hope.
+
+open a door.
+an eternal
+pokemon
+waits.
+
+
+right, right,
+down, down,
+then use
+strength.
+
+with new time,
+hope and love,
+aim to the sky
+in the middle.
+
+stop and
+wait. wait
+for time to
+pass twice.
+    </textarea></div> -->
+  </div>
+  <div id='cache' style="clear: both;">
+  </div>
+  <br />
+  <br />
+  <div>
+    <button id="clear">Clear</button>
   </div>
   <!-- <div class='play'></div> -->
   <!-- <div id='readout'><table><tr></tr></table></div> -->
 </article>
-
 <!-- <article id='3'>
   <div id='game'>
     <div id='flashcard'>Start</div>
@@ -126,16 +253,6 @@ $(function() {
   <tr><th>UTF-8 (hex)</th><td>0xE2 0xA0 0x80 (e2a080)</td></tr>
 </table> -->
 
-
 </div>
-
-
-
-
-
-
-
-
-
 </body>
 </html>
